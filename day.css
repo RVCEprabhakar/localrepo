@@ -1,0 +1,11 @@
+/* day.css */
+body {
+    background-color: lightblue; /* Change background color */
+    font-family: Arial, sans-serif;
+}
+
+p {
+    color: darkblue; /* Change text color */
+    font-size: 18px; /* Set font size */
+    text-align: center; /* Center the text */
+}
